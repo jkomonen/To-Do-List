@@ -10,7 +10,9 @@ OR
 
 Clone the repository
 
-```$ git clone https://github.com/jkomonen/To-Do-List.git```
+```console
+$ git clone https://github.com/jkomonen/To-Do-List.git
+```
 
 - Install the Visual Studio Code extension 'Live Server'
 - Click 'Go Live' in the bottom right corner
